@@ -1,0 +1,8 @@
+
+hsquid:UselessImportCheck"=Remove this unused import 'android.view.animation.Animation'.(õò©²8ó¶¼æ¡+
+esquid:UselessImportCheck
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ó¶¼æ¡+
+’squid:UselessImportCheck"bRemove this unused import 'es.miguelprietos.marvelheroes.control.callbacks.CharacterListCallBack'.(»Ö†µûÿÿÿÿ8š¢ºæ¡+
+Jsquid:UselessParenthesesCheck<"!Remove those useless parentheses.(¦Šˆ
+msquid:UselessImportCheck	"BRemove this unused import 'android.view.animation.AnimationUtils'.(Žžµ¬8ó¶¼æ¡+
+ƒsquid:UselessImportCheck"SRemove this unused import 'es.miguelprietos.marvelheroes.database.DataBaseActions'.(¸Õâ—øÿÿÿÿ8š¢ºæ¡+

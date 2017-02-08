@@ -1,0 +1,10 @@
+
+hsquid:UselessImportCheck	">Remove this unused import 'android.support.v7.widget.Toolbar'.(à½£8µ…¯æ¡+
+jsquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(ªÜ³ðøÿÿÿÿ
+usquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8ìª®æ¡+
+msquid:UselessImportCheck"CRemove this unused import 'android.support.design.widget.Snackbar'.( À®p8µ…¯æ¡+
+vsquid:S1450"XRemove the "favorites" field and declare it as a local variable in the relevant methods.(„òè8ã¨´æ¡+
+zsquid:UselessImportCheck"ORemove this unused import 'android.support.design.widget.FloatingActionButton'.(„Ÿ¹¼8µ…¯æ¡+
+{squid:S1450"XRemove the "mRecycler" field and declare it as a local variable in the relevant methods.(œ¼Êšøÿÿÿÿ8ªÇµæ¡+
+^squid:UselessImportCheck
+".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ8µ…¯æ¡+

@@ -1,0 +1,5 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8•ÊŽå¡+
+Ÿsquid:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åœ¶š8ýÍ“å¡+
+}squid:UselessImportCheck"MRemove this unused import 'es.miguelprietos.marvelheroes.domain.classes.Url'.(Ò®©ƒüÿÿÿÿ8•ÊŽå¡+
+squid:UselessImportCheck"ORemove this unused import 'es.miguelprietos.marvelheroes.domain.classes.Image'.(¸ÈçÇøÿÿÿÿ8—úãå¡+

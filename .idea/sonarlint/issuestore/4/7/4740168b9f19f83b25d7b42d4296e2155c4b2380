@@ -1,0 +1,10 @@
+
+Ksquid:UselessParenthesesCheck˜"!Remove those useless parentheses.(¦Šˆ
+dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8Ë“¿ä¡+
+Xsquid:UnusedPrivateMethod|"-Remove this unused private "changeTo" method.(†Âİ.8Ùï¶ä¡+
+Ÿsquid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ8›¬Ùä¡+
+^squid:UnusedPrivateMethodf"2Remove this unused private "changeToImage" method.(Ù¦8›¬Ùä¡+
+Ysquid:UselessImportCheck"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë
+ squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ8Ùï¶ä¡+
+¤squid:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ8›¬Ùä¡+
+¥squid:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ8Ùï¶ä¡+

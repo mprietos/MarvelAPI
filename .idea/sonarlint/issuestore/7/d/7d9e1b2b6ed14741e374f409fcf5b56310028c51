@@ -1,0 +1,16 @@
+
+Ysquid:S2696+"6Make the enclosing method "static" or remove this set.(¡²Éÿùÿÿÿÿ8É¡¦å¡+
+Csquid:S1166l"%Either log or rethrow this exception.(”ı¾8“àå¡+
+Csquid:S1166Y"%Either log or rethrow this exception.(”ı¾8É×œå¡+
+Ysquid:S2696c"6Make the enclosing method "static" or remove this set.(¡²Éÿùÿÿÿÿ8“àå¡+
+Hsquid:S00108I")Either remove or fill this block of code.(”ı¾8Áº³å¡+
+Ysquid:S2696R"6Make the enclosing method "static" or remove this set.(¡²Éÿùÿÿÿÿ8É×œå¡+
+Ysquid:S2696A"6Make the enclosing method "static" or remove this set.(¡²Éÿùÿÿÿÿ8Áº³å¡+
+Csquid:S1166!"%Either log or rethrow this exception.(”ı¾8˜âšå¡+
+|squid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÂ¾¢ùÿÿÿÿ8“àå¡+
+Hsquid:S00108!")Either remove or fill this block of code.(”ı¾8˜âšå¡+
+Csquid:S11665"%Either log or rethrow this exception.(”ı¾8É¡¦å¡+
+Hsquid:S001085")Either remove or fill this block of code.(”ı¾8É¡¦å¡+
+Csquid:S1166I"%Either log or rethrow this exception.(”ı¾8Áº³å¡+
+\squid:S11551">Use isEmpty() to check whether the collection is empty or not.(ÔÄí›8É¡¦å¡+
+Hsquid:S00108l")Either remove or fill this block of code.(”ı¾8“àå¡+
